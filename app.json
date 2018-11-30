@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "news-app",
-    "description": "This project is really great.",
+    "description": "A React native News demo to browse and search for news",
     "slug": "news-app",
     "privacy": "public",
     "sdkVersion": "31.0.0",
